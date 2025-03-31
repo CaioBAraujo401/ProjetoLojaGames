@@ -11,4 +11,4 @@ npm install react-router-dom
 npm instal styled-components
 9)  Verificar se tem a extensão ES7 React/Redux/GraphQL/React-Native
 10) Criando os componentes do projeto com o comando rafce
-   
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
